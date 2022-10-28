@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DfENLMej2ihD9Ojr5u1v4iOH+fMaEiU3y7g10SIJq2s+9l4VuuUOVfKJUnm9KeDCi4VCk2Xy3/rFRkFnk2zxxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rosana\\Documents\\projects\\vs 2022\\API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rosana\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rosana\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Rosana\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rosana\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rosana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Rosana\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
