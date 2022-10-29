@@ -39,7 +39,7 @@ namespace API.Controllers
         {
             var dbProject = await _context.Projects.FindAsync(project.Id);
             if (dbProject == null)
-            {6
+            {
                 return BadRequest("hero not found");
 
             }
